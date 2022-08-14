@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\视频课程文档\慕课网\Spring Cloud 进阶 Alibaba 微服务体系自媒体实战\imooc-news-dev\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
